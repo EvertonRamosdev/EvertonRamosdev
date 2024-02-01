@@ -11,8 +11,15 @@ Olá me chamo Everton Alves <br> sou um programdor Front-Ende :spades: :trophy:
 
 
 formas de contato:
+  <a href=" "> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=fotoinstagram/> </a>
+
+   <a href="https://www.linkedin.com/in/everton-alves-b16440285/ "> <img src="https://www.linkedin.com/in/everton-alves-b16440285/" alt=fotolinkedin/> </a>
 
 
+<br>
+<br>
+<br>
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=EvertonRamosdev&show_icons=true&theme=dark"
