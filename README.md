@@ -24,7 +24,7 @@ formas de contato:
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=fotoinstagram/>
   </a>
 
- <a href=" https://www.linkedin.com/in/everton-alves-b16440285/">
+ <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" linkedin"/>
  </a>
 
