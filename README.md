@@ -1,6 +1,6 @@
 Olá me chamo Everton Alves <br> sou um programdor Front-Ende :spades: :trophy:   ![](https://komarev.com/ghpvc/?username=EvertonRamsodev)
 
- Já tenho uma boa experiencia com html, css e estou em curva de aprendizado em crescimento constante em JavaScript,  e pretendo trazer bons proetos aqui para esse perfil e espero que quem veja essa projetos goste e talvez fassa algum deles.
+ Possuo uma boa experiencia com html, css e estou em curva de aprendizado em crescimento constante em JavaScript,  e pretendo trazer bons projetos aqui para esse perfil e espero que quem veja essa projetos goste deles os inspire a criar outros.
 <br>
 <br>
 
