@@ -1,7 +1,17 @@
-Olá me chamo Everton Alves <br> sou um programdor Front-Ende :spades: :trophy:   ![](https://komarev.com/ghpvc/?username=EvertonRamsodev) <br>
+Olá me chamo Everton Alves 🔗 <br> sou programdor Front-Ende :spades: :trophy: 
+<br>
+![](https://komarev.com/ghpvc/?username=EvertonRamsodev) <br>
 
  Possuo uma boa experiencia com html, css e estou em curva de aprendizado em crescimento constante em JavaScript,  e pretendo trazer bons projetos aqui para esse perfil e espero que quem veja essa projetos goste deles os inspire a criar outros.
 <br>
+<div style="display: inline_block">
+  <a href="https://www.instagram.com/evertonj_alves/?next=%2F "> 
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=fotoinstagram/>
+  </a>
+
+ <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" linkedin"/>
+ </a>
 <br>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonAlvesdev&show_icons=true&bg_color=white_height=500px)
@@ -17,18 +27,3 @@ Olá me chamo Everton Alves <br> sou um programdor Front-Ende :spades: :trophy: 
  
  Estou em transição de carreira mas finalmente eu sinto que achei o que tanto procurei ao logo dos anos que era uma profissão que me sentise muito bem trabalhando e para dedicar me 100%.
 
-formas de contato:
-<br>
-<div style="display: inline_block">
-  <a href="https://www.instagram.com/evertonj_alves/?next=%2F "> 
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=fotoinstagram/>
-  </a>
-
- <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" linkedin"/>
- </a>
-
-  <a href="evertonjulio421@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email background-color=yellow"/>
- </a>
-</div><br/>
