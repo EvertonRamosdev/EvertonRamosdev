@@ -4,7 +4,7 @@ Olá me chamo Everton Alves <br> sou um programdor Front-Ende :spades: :trophy: 
 <br>
 <br>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonAlvesdev&show_icons=true&bg_color=white_height=100px)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonAlvesdev&show_icons=true&bg_color=white_height=200px)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRamosdev&layout=compact )
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
