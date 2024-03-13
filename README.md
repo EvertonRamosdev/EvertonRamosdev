@@ -1,4 +1,4 @@
-Olá me chamo Everton Alves 🔗 <br> sou programdor Front-Ende :spades: :trophy: 
+Olá, sou Everton Alves ⚓ <br> sou programdor Front-Ende :spades: :trophy: 
 <br>
 ![](https://komarev.com/ghpvc/?username=EvertonRamsodev) <br>
 
