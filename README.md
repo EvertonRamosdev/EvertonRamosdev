@@ -13,6 +13,19 @@ Olá, sou Everton Alves ⚓ <br> sou programador Front-End :spades: :trophy:
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" linkedin"/>
  </a>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonAlvesdev&show_icons=true&bg_color=white_height=500px)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRamosdev&layout=compact )
