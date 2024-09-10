@@ -11,6 +11,7 @@ Olá, sou Everton Alves ⚓ <br> sou programador Front-End :spades: :trophy:
 
  <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" linkedin"/>
+  <a href="mailton:evertonjulio421@gmail.com"> Email </a>
  </a>
 <br>
 <br>
@@ -20,7 +21,7 @@ Olá, sou Everton Alves ⚓ <br> sou programador Front-End :spades: :trophy:
 <br>
 <br>
 <br>
-<br><br>
+<br>
 <br>
 <br>
 <br>
