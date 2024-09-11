@@ -1,43 +1,28 @@
-Olá, sou Everton Alves ⚓ <br> sou programador Front-End :spades: :trophy: 
+<h1>Olá me chamo Everton Alves</h1> <br> <h2> DEV Front-End :spades::trophy:</h2> 
 <br>
-![](https://komarev.com/ghpvc/?username=EvertonRamsodev) <br>
-
- Experiencia com html, css e estou em curva de aprendizado em crescimento constante em JavaScript,  e pretendo trazer bons projetos aqui para esse perfil e espero que quem veja essa projetos goste deles os inspire a criar outros.
-<br>
-<div style="display: inline_block">
-  <a href="https://www.instagram.com/evertonj_alves/?next=%2F "> 
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=fotoinstagram/>
-  </a>
-
- <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" linkedin"/>
-  <a href="mailton:evertonjulio421@gmail.com"> Email </a>
- </a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonAlvesdev&show_icons=true&bg_color=white_height=500px)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRamosdev&layout=compact )
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<div>
+  <a href="https://github.com/EvertonRamosdev">
+   
+   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Evertonramosdev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/EvertonRamosdev/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRamosdev&layout=compact&theme=dark)
 </div>
-<br/>
- 
- Estou em transição de carreira mas finalmente eu sinto que achei o que tanto procurei ao logo dos anos que era uma profissão que me sentise muito bem trabalhando e para dedicar me 100%.
 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ever-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="everton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="everton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="everton-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
