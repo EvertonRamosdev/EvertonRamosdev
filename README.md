@@ -42,7 +42,7 @@
 
 ###
 
-<h1 align="left">stats</h1>
+<h1 align="left">Stats</h1>
 
 ###
 
