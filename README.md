@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8e945&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+É+Everton+Alves;Sou+Desenvolvedor+Full+Stack;+Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8e945&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+É+Everton+Ramos;Sou+Desenvolvedor+Full+Stack;+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 ###
