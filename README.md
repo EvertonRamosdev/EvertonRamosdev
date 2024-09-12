@@ -21,7 +21,7 @@
   <img align="center" alt="everton-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<h3>Studying in this moment:</h3>
+<h1>Studying in this moment:</h1>
 <img align="center" alt="everton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 
