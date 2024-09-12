@@ -1,14 +1,11 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1903fc&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1903fc&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+É+Everton+Alves;Sou+Desenvolvedor+Full+Stack;+Be+Welcome!+:%29)](https://git.io/typing-svg)  
 
 <br>
 <div>
   <a href="https://github.com/EvertonRamosdev"/>
     
-   [![Anurag's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=Evertonramosdev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/EvertonRamosdev/github-readme-stats#gh-dark-mode-only)
-<img height="195.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRamosdev&layout=compact&theme=dracula" />
+<img height="180.5em" src="https://github-readme-stats.vercel.app/api?username=EvertonRamosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> <spam>
+   <img height="180.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRamosdev&layout=compact&theme=dracula"/>
 
 </div>
 
@@ -22,10 +19,10 @@
 </div>
 
 <h1>Studying in this moment:</h1>
+
 <img align="center" alt="everton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-
- 
+<br>
+<br>
 <div> 
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:Evertonjulio421@gmail.om"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
