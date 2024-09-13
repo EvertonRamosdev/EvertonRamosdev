@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
+<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT<br>-REACT</h5>
 
 ###
 
