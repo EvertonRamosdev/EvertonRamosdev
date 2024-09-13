@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8e945&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+É+Everton+Ramos;Sou+Desenvolvedor;+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<h1 align="left">Hello World!!</h1>
-
 ###
 
-<h2 align="left">Sejam Bem Vindos ao Meu Perfil :</h2>
+<h1 align="left">Sejam Bem Vindos:</h1>
 
 ###
 
@@ -63,9 +61,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
+  <a href="mailton:evertonjulio421@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
