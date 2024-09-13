@@ -1,22 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8e945&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+É+Everton+Ramos;Sou+Desenvolvedor;+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-
 ###
 
-<h1 align="left">Sejam Bem Vindos :</h1>
+<h2 align="left">Sejam Bem Vindos:</h2>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Sobre</h2>
+<h2 align="left">Sobre:</h2>
 
 ###
 
-<p align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Há algum tempo, achei que meu caminho seria como professor, mas desisti dessa ideia ao perceber que, na verdade, gosto muito da área de tecnologia. Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.
+<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
+
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias:</h2>
 
 ###
 
@@ -33,11 +33,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
+
+<h2 align="left">Tols:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
 ###
@@ -57,3 +68,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/EvertonRamosdev/count.svg?"  />
 </div>
+
+###
