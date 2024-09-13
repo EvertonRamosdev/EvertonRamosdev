@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
+<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
 
 ###
 
@@ -37,6 +37,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
@@ -57,11 +58,20 @@
 
 ###
 
-<h2 align="left">Contacts</h2>
+<h2 align="center">CONTACTS</h2>
 
 ###
 
-<h1 align="left">stats</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
+</div>
+
+###
+
+<h1 align="center">Stats</h1>
 
 ###
 
@@ -80,13 +90,6 @@
 ###
 
 <div align="left">
-</div>
-
-###
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EvertonRamosdev/count.svg?"  />
 </div>
 
 ###
