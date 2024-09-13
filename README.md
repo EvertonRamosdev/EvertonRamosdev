@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8e945&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+É+Everton+Ramos;Sou+Desenvolvedor;+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-###
-
-<h1 align="left">Sejam Bem Vindos:</h1>
+<h2 align="left">Sejam Bem Vindos</h2>
 
 ###
 
@@ -12,7 +10,7 @@
 
 ###
 
-<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
+<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
 
 ###
 
@@ -34,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -55,16 +52,17 @@
 
 ###
 
-<h2 align="center">CONTACTS</h2>
+<h2 align="left">Contact:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/everton-j%C3%BAlio-alves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+  
   <a href="mailton:evertonjulio421@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
