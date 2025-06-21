@@ -10,7 +10,8 @@
 
 ###
 
-<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br>* TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
+<h5 align="left">Me chamo Everton Júlio, sou proativo e extrovertido.<br><br>Venho de uma jornada de mais de 4 anos no setor de vendas e atendimento ao público, o que me trouxe uma valiosa experiência profissional.<br><br>
+  Agora, estou em uma empolgante transição de carreira para a área de programação como Desenvolvedor Front-End.<br><br><br><br> * TENHO SOLIDO CONHECIMENTO EM:<br>- HTML<br>-CSS<br>-JAVA-SCRIPT</h5>
 
 ###
 
@@ -45,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
