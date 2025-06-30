@@ -55,7 +55,7 @@ Agora, estou em transição de carreira para a área de programação como Desen
       </a>
     </td>
     <td>
-      <a href="mailto:evertonjulio421@gmail.com" target="_blank">
+      <a href="mailto:evertonjulio421@gmail.com" >
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" />
       </a>
     </td>
